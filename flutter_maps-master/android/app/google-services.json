@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547662680030",
+    "project_id": "deneme-282716",
+    "storage_bucket": "deneme-282716.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547662680030:android:e12de3ddd9b48ddffc974f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547662680030-cgofqa2dsfed1ffqp04jn25661s7cfao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhzAu6zglI-amaRs0gvIE0A7WB65u2Zb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547662680030-cgofqa2dsfed1ffqp04jn25661s7cfao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
