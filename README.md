@@ -3,10 +3,12 @@ FlutterMaps Application
 
 Başarsoft Bilgi Teknolojileri A.Ş. şirketindeki stajyerlik döneminde yaptığım bir projedir.
 Bana kattıkları bilgiler ve tecrübelerinden dolayı teşekkürlerimi sunarım.
+Veritabanı olarak Google Cloud Platform kullanılmıştır.
 Talha Urgancı tarafından geliştirilmiştir.
 
 This is a project I developed during my internship in Başarsoft Bilgi Teknolojileri A.Ş.
 I would like to thank them for the knowledge and experience they have given me.
+Google Cloud Platform was used as the database.
 Developed by Talha Urgancı. 
 
 ![Screenshot_1623877380](https://user-images.githubusercontent.com/65421059/141024318-80cc6525-9c68-4fcc-8ba5-887ff5686a2c.png)
